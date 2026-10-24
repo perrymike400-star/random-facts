@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Did You Know? Random Facts"},{"path":"/#facts","title":"Browse Facts"},{"path":"/#category/:id","title":"Fact Category"},{"path":"/#saved","title":"Saved Facts"},{"path":"/#about","title":"About"}]}
